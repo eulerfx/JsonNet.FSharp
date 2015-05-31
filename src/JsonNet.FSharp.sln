@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "JsonNet.FSharp", "JsonNet.FSharp\JsonNet.FSharp.fsproj", "{BC6F1810-4D59-4216-8118-74A012643E4A}"
 EndProject
 Global
