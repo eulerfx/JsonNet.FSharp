@@ -48,6 +48,8 @@
     <Compile Include="OptionConverter.fs" />
     <Compile Include="TupleArrayConverter.fs" />
     <Compile Include="ListConverter.fs" />
+    <Compile Include="SingleCaseUnionConverter.fs" />
+    <Compile Include="UnionEnumConverter.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>
