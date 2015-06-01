@@ -50,6 +50,7 @@
     <Compile Include="ListConverter.fs" />
     <Compile Include="SingleCaseUnionConverter.fs" />
     <Compile Include="UnionEnumConverter.fs" />
+    <Compile Include="MapConverter.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>
